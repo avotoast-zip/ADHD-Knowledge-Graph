@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "ADHD glossary",
-    "description": "Combined lexicon of MeSH 2026 descriptors and a curated ADHD glossary (MeSH prioritized). concept_label uses the seven classes from 'Towards an Ontology for ADHD' (SUBTYPE, SYMPTOM, BEHAVIOR, COMORBIDITY, TREATMENT, RISK_FACTOR, DIAGNOSTIC_CRITERIA) plus three extensions: NEUROBIOLOGY, CONTEXT, RESEARCH_METHOD.",
+    "description": "Combined lexicon of MeSH 2026 descriptors and a curated ADHD glossary (MeSH prioritized). concept_label uses the seven classes of Alsaedi et al. (2024) plus six classes grounded in WHO ICF, NIMH RDoC and the UMLS Semantic Network: SUBTYPE, SYMPTOM, BEHAVIOR, COMORBIDITY, TREATMENT, RISK_FACTOR, DIAGNOSTIC_CRITERIA, MENTAL_FUNCTION, FUNCTIONING, NEUROBIOLOGY, ENVIRONMENTAL_FACTOR, RESEARCH_METHOD, DISCIPLINE.",
     "author": "",
     "accessed": "2026-11-07",
     "sources": [
@@ -52,7 +52,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SUBTYPE",
+      "concept_label": "COMORBIDITY",
       "term": [
         "Sluggish Cognitive Tempo",
         "Cognitive Tempo, Sluggish",
@@ -469,7 +469,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptors, Dopamine D4",
         "D4 Receptors, Dopamine",
@@ -783,7 +783,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Dopamine Plasma Membrane Transport Proteins",
         "Neurotransmitter Transport Proteins, Dopamine-Specific",
@@ -836,7 +836,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptors, Dopamine D5",
         "D5 Receptors, Dopamine",
@@ -858,7 +858,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Irritable Mood",
         "Mood, Irritable",
@@ -909,7 +909,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Underachievement",
         "Underachievements"
@@ -924,7 +924,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Norepinephrine Plasma Membrane Transport Proteins",
         "Sodium-Dependent Noradrenaline Transporter",
@@ -1096,7 +1096,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Executive Function",
         "Executive Functions",
@@ -1204,7 +1204,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Inhibition, Psychological",
         "Inhibitions, Psychological",
@@ -1283,7 +1283,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Delay Discounting",
         "Discounting, Delay",
@@ -1496,7 +1496,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Social Skills",
         "Skill, Social",
@@ -1560,7 +1560,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Synaptosomal-Associated Protein 25",
         "Synaptosomal Associated Protein 25",
@@ -1636,7 +1636,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Rage",
         "Rages"
@@ -1708,7 +1708,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Temperament",
         "Temperaments"
@@ -1943,7 +1943,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Academic Performance",
         "Academic Performances",
@@ -1980,7 +1980,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Child Psychiatry",
         "Psychiatry, Child"
@@ -2012,7 +2012,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Attention",
         "Focus of Attention",
@@ -2034,7 +2034,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Processing Speed",
         "Processing Speeds",
@@ -2065,7 +2065,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "COMORBIDITY",
       "term": [
         "Internet Addiction Disorder",
         "Addiction Disorder, Internet",
@@ -2142,7 +2142,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Adolescent Psychiatry",
         "Psychiatry, Adolescent"
@@ -2243,7 +2243,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "School Teachers",
         "School Teacher",
@@ -2350,7 +2350,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Affective Symptoms",
         "Affective Symptom",
@@ -2408,7 +2408,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Child, Gifted",
         "Children, Gifted",
@@ -2453,7 +2453,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Emotional Regulation",
         "Emotional Regulations",
@@ -2558,7 +2558,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Academic Success",
         "Academic Successes",
@@ -2579,7 +2579,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Psychopathology"
       ],
@@ -2636,7 +2636,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Memory, Short-Term",
         "Memories, Short-Term",
@@ -2736,7 +2736,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Intelligence"
       ],
@@ -2910,7 +2910,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Behavioral Symptoms",
         "Behavioral Symptom",
@@ -2927,7 +2927,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Chronotype",
         "Chronotypes",
@@ -3211,7 +3211,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Achievement",
         "Achievements",
@@ -3228,7 +3228,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Parents",
         "Parent",
@@ -3254,7 +3254,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Psychosocial Functioning",
         "Functioning, Psychosocial"
@@ -3335,7 +3335,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Catechol O-Methyltransferase",
         "O-Methyltransferase, Catechol",
@@ -3610,7 +3610,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Siblings",
         "Sibling",
@@ -3629,7 +3629,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptors, Histamine H3",
         "H3 Receptors, Histamine",
@@ -3762,7 +3762,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Self-Control",
         "Self Regulation",
@@ -3795,7 +3795,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptors, Adrenergic, alpha-2",
         "alpha 2 Adrenergic Receptors",
@@ -3956,7 +3956,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Rejection, Psychology",
         "Psychology Rejection",
@@ -4076,7 +4076,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptor, Serotonin, 5-HT1B",
         "5-HT1B Receptor",
@@ -4161,7 +4161,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Internal-External Control",
         "Internal-External Controls",
@@ -4318,7 +4318,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Serotonin Plasma Membrane Transport Proteins",
         "Neurotransmitter Transporters, Serotonin-Specific",
@@ -4354,7 +4354,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Neuropsychiatry"
       ],
@@ -4368,7 +4368,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "DIAGNOSTIC_CRITERIA",
+      "concept_label": "RESEARCH_METHOD",
       "term": [
         "Sociometric Techniques",
         "Sociometric Technique",
@@ -4389,7 +4389,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Social Cognition",
         "Cognition, Social"
@@ -4421,7 +4421,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Boredom",
         "Boredoms"
@@ -4455,7 +4455,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Vesicular Monoamine Transport Proteins",
         "Monoamine Transporters, Vesicular",
@@ -4582,7 +4582,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Faculty",
         "University Professor",
@@ -4712,7 +4712,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "National Institute of Mental Health (U.S.)",
         "NIMH",
@@ -4778,7 +4778,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "NEUROBIOLOGY",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Neurobiology",
         "Cellular Neurobiology",
@@ -4860,7 +4860,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Social Adjustment",
         "Adjustments, Social",
@@ -4877,7 +4877,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Receptors, Dopamine D2",
         "Dopamine-D2 Receptor",
@@ -4896,7 +4896,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Pediatricians",
         "Pediatrician"
@@ -4911,7 +4911,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "BEHAVIOR",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Handwriting"
       ],
@@ -5099,7 +5099,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Theory of Mind"
       ],
@@ -5113,7 +5113,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Psychomotor Performance",
         "Performance, Psychomotor",
@@ -5165,7 +5165,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "RISK_FACTOR",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Character",
         "Characters"
@@ -5224,7 +5224,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "NEUROBIOLOGY",
       "term": [
         "Adolescent Development",
         "Development, Adolescent"
@@ -5239,7 +5239,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Reaction Time",
         "Reaction Times",
@@ -5444,7 +5444,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Peer Group",
         "Group, Peer",
@@ -5661,7 +5661,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Reward",
         "Rewards"
@@ -5690,7 +5690,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Cognition",
         "Cognitions",
@@ -5832,7 +5832,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "DISCIPLINE",
       "term": [
         "Neuropsychology",
         "Neuropsychologies"
@@ -5847,7 +5847,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "DIAGNOSTIC_CRITERIA",
+      "concept_label": "RESEARCH_METHOD",
       "term": [
         "Psychometrics",
         "Psychometric"
@@ -5862,7 +5862,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "MENTAL_FUNCTION",
       "term": [
         "Reversal Learning",
         "Learning, Reversal",
@@ -6122,7 +6122,7 @@
       "source": "MeSH"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "FUNCTIONING",
       "term": [
         "Socialization",
         "Socializations"
@@ -6229,7 +6229,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Hyperfocus"
       ],
@@ -6244,7 +6244,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Emotion dysregulation"
       ],
@@ -6258,7 +6258,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Time blindness"
       ],
@@ -6286,7 +6286,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "ADHD paralysis",
         "Task paralysis"
@@ -6301,7 +6301,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "ADHD burnout"
       ],
@@ -6329,7 +6329,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Rejection sensitive dysphoria"
       ],
@@ -6463,7 +6463,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "TREATMENT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Individuals with Disabilities Education Act"
       ],
@@ -6479,7 +6479,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "TREATMENT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Free Appropriate Public Education"
       ],
@@ -6495,7 +6495,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "TREATMENT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Least Restrictive Environment"
       ],
@@ -6615,7 +6615,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Externalizing symptoms"
       ],
@@ -6629,7 +6629,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "SYMPTOM",
+      "concept_label": "BEHAVIOR",
       "term": [
         "Internalizing symptoms"
       ],
@@ -6643,7 +6643,7 @@
       "source": "ADHD glossary"
     },
     {
-      "concept_label": "CONTEXT",
+      "concept_label": "ENVIRONMENTAL_FACTOR",
       "term": [
         "Neurodiversity"
       ],
